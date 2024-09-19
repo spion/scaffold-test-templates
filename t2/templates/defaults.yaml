@@ -1,0 +1,3 @@
+---
+var1: "foo_t2"
+var2: "{{ .Computed.static }}"
